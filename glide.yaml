@@ -1,0 +1,8 @@
+package: github.com/pddg/labnote
+import:
+  - package: github.com/urfave/cli
+  - package: golang.org/x/crypto/ssh/terminal
+  - package: github.com/jinzhu/inflection
+  - package: github.com/jinzhu/gorm
+
+
